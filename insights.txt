@@ -1,0 +1,4 @@
+1. Bengaluru contributes the highest total purchase amount among all cities, indicating strong customer activity.
+2. Male customers have a higher average purchase amount compared to female customers.
+3. Electronics is the top-performing product category, contributing the largest share of total revenue.
+4. Grocery shows lower contribution compared to other categories, indicating scope for growth.
